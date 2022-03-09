@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540357276599",
+    "project_id": "sciffer-task",
+    "storage_bucket": "sciffer-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540357276599:android:e5bff8ebedd1bea0d5ae32",
+        "android_client_info": {
+          "package_name": "com.example.sciffertask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540357276599-cbt191qa67blo52kpcvs1jkeo9pfa4kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOLWrtvLEA47nuBYy93PBRejKc2rWCOuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540357276599-cbt191qa67blo52kpcvs1jkeo9pfa4kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
